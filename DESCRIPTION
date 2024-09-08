@@ -1,0 +1,13 @@
+Package: montyhall
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Kylie", "Hansen", , "Kylie.Hansen@asu.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package determines whether switching doors or keeping the original door is a winning strategy for the Monty Hall problem.
+Depends:
+    dplyr
+License: use_mit_license()
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
